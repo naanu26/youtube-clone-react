@@ -26,7 +26,7 @@ class App extends Component {
             params: {
                 part: 'snippet',    //will return the video
                 maxResults: 5,
-                key: 'AIzaSyDBZVNBw22JmnrTUwZVrMN4uxCcCXlbPcc',
+                key: 'YOUR API KEY',
                 q: searchTerm
             }
         
